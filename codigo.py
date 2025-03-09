@@ -1,7 +1,7 @@
-# Vídeo: https://www.youtube.com/watch?v=7L0MnVu1KEo
-# Install pip install langchain
+# Vídeo: https://www.youtube.com/watch?v=7L0MnVu1KEo#
 # https://python.langchain.com/docs/introduction/
 # pip install -qU "langchain[openai]"
+# pip install langchain
 
 from dotenv import load_dotenv
 import os
